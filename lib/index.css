@@ -1,0 +1,67 @@
+body {
+	margin: 0 auto;
+	padding: 0;
+	background-color: #efefef;
+}
+
+i {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 3px;
+}
+
+.wrap {
+	margin: 30px auto;
+	max-width: 900px;
+	background-color: #fff;
+}
+
+.left-wrap {
+	width: 230px;
+	display: inline-block;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+.left-wrap .pic-info {
+	padding: 30px 20px 10px 20px;
+	background-color: #00417b;
+}
+.left-wrap .pic-info .name {
+	margin: 20px 0 0 0;
+	color: #fff;
+	font-size: 25px;
+	font-weight: bold;
+}
+.left-wrap .pic-info .position {
+	margin: 10px;
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+}
+.left-wrap #selfi {
+	width: 100px;
+	display: inline-blcok;
+	border-radius: 50%;
+}
+.left-wrap .personal-info {
+	padding: 30px 20px;
+	color: #fff;
+	font-size: 14px;
+	background-color: #3a75a5;
+	text-align: left;
+	
+}
+.left-wrap .personal-info .sns {
+	margin-bottom: 40px;
+	line-height: 25pt;
+}
+.left-wrap .personal-info .edu h4{
+	margin: 0;
+}
+
+.right-wrap {
+	display: inline-block;
+}
+.right-wrap div h4 {
+	margin: 0;
+}
