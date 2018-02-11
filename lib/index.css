@@ -49,13 +49,24 @@ i {
 	font-size: 14px;
 	background-color: #3a75a5;
 	text-align: left;
-	
 }
 .left-wrap .personal-info .sns {
 	margin-bottom: 40px;
 	line-height: 25pt;
 }
+.left-wrap .personal-info .edu {
+	margin:40px 0;
+	line-height: 15pt;
+}
 .left-wrap .personal-info .edu h4{
+	margin: 0;
+}
+
+.left-wrap .personal-info .int {
+	margin:40px 0;
+	line-height: 15pt;
+}
+.left-wrap .personal-info .int h4{
 	margin: 0;
 }
 
